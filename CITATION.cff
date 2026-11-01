@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use PAVE-PINN, please cite the paper below."
+title: "PAVE-PINN: physics-constrained deep ensemble for mechanistic-empirical life prediction of flexible pavements"
+type: software
+authors:
+  - family-names: Rind
+    given-names: Touqeer Ali
+  - family-names: Ahmed
+    given-names: Shiraz
+  - family-names: Waqas
+    given-names: Hafiz Ahmed
+license: MIT
+version: 1.0.0
+date-released: 2026-11-01
+preferred-citation:
+  type: article
+  title: "PAVE-PINN: a physics-constrained deep ensemble for mechanistic-empirical life prediction of flexible pavements from 3,500 viscoelastic-elastoplastic finite element simulations"
+  authors:
+    - family-names: Rind
+      given-names: Touqeer Ali
+    - family-names: Ahmed
+      given-names: Shiraz
+    - family-names: Waqas
+      given-names: Hafiz Ahmed
+  status: submitted
